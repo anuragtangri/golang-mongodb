@@ -1,3 +1,3 @@
 # golang-mongodb
 
-1. Golanfg CRUD API's with MongoDB database.
+1. Golang CRUD API's with MongoDB database.
